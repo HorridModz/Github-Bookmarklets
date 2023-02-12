@@ -1,6 +1,10 @@
-# ViewStargazersBookmarklet
-Simple JavaScript bookmarklet I made a while back - I figured I'd share it. It allows you to view the stargazers of the current github repository in a single click.
+# GithubBookmarklets
+Simple JavaScript bookmarklets I made a while back - I figured I'd share them. These are simple utilities that make it easier to navigate github.
+Feel free to fork and add your own!
 
-```
-javascript:window.location = window.location + "/stargazers"
-```
+
+
+# View Stargazers:
+`javascript:window.location = window.location + "/stargazers"`
+# View Forks:
+`javascript:window.location = window.location + "/network/members"`
