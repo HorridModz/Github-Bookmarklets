@@ -1,5 +1,5 @@
 # GithubBookmarklets
-Simple JavaScript bookmarklets I made a while back - I figured I'd share them. These are simple utilities that make it easier to navigate github.
+A couple JavaScript bookmarklets I made a while back - I figured I'd share them. These are simple utilities that make it easier to navigate github.
 Feel free to fork and add your own!
 
 
