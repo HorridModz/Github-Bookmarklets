@@ -7,4 +7,4 @@ Feel free to fork and add your own!
 # View Stargazers:
 `javascript:window.location = window.location + "/stargazers"`
 # View Forks:
-`javascript:window.location = window.location + "/network/members"`
+`javascript:window.location = window.location + "/forks"`
